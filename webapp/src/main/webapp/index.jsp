@@ -1,6 +1,6 @@
 <form action="action_page.php">
     <div class="container">
-        <legend>Employee Details</legend>
+        <legend>Employee Details Updated</legend>
         <p>
              First name: <input type = "text" name = "fname" />
         </p>
